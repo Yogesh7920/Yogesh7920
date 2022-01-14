@@ -1,16 +1,33 @@
-### Hi there 👋
+![Yogesh GitHub Banner](./assets/banner.png)
 
-<!--
-**Yogesh7920/Yogesh7920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/yogesh-r-0a5220193/)
+[![StackOverFlow Badge](https://img.shields.io/badge/StackOverFlow-Profile-informational?style=flat&logo=stackoverflow&logoColor=white&color=1CA2F1)](https://stackoverflow.com/users/13975077/yogesh)
 
-Here are some ideas to get you started:
+<!-- Pinned Repositories -- >
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/Yogesh7920/meet.me">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+<a href="https://github.com/Yogesh7920/Pegasus-Driver-Assistance">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+<a href="https://github.com/Yogesh7920/Tiger-Compiler">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+
+<!-- GitHub Stats -- >
+
+<a href="https://github.com/Yogesh7920">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogesh7920&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/Yogesh7920">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Yogesh7920&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Yogesh7920's GitHub Stats" />
+</a>
